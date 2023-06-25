@@ -2,6 +2,9 @@
 Jenkins CI/CD Pipeline - SonarQube, Docker, Github Webhooks on AWS | Project - 1
 
 
+![image](https://github.com/restlingclone/Jenkins-CI-CD-Pipeline---Project-1/assets/46015549/baee0846-1fc5-4883-956c-e0ca09f9c1db)
+
+
 In this project, we will explore setting up a Jenkins CI/CD pipeline using Github, Sonarqube, and Docker on an AWS EC2 instance.
 
 Jenkins is a popular open-source automation server that helps automate various tasks in the software development process, including building, testing, and deploying software. GitHub is a code repository that provides version control and collaboration tools, and Sonarqube is a code quality management tool that helps analyze and manage code quality in software projects. Docker is a containerization platform that helps simplify the deployment of software applications.
